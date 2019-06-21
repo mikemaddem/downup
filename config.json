@@ -1,8 +1,22 @@
 {
-	"website": [
-		{
-			"url": "enter url here",
-			"priority": "10"
-		}
-	]
+  "http.get": {
+    "website1": {
+      "url": "enter url here",
+      "priority": 10
+    },
+    "website2": {
+      "url": "url 2",
+      "priority": 10
+    }
+  },
+  "ping": {
+    "server1": {
+      "ip": "192.168.1.1",
+      "priority": 10
+    },
+    "server2": {
+      "ip": "192.168.1.1",
+      "priority": 10
+    }
+  }
 }
