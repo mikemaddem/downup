@@ -3,7 +3,6 @@ from django.conf.urls import include
 from django.conf.urls.static import static
 from django.contrib import admin
 from django.urls import path, re_path
-from paypal.standard.ipn import views as paypal_views
 
 from user import views as profile_views
 from tracker import views as pages_views
