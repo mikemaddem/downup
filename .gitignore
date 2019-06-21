@@ -2,3 +2,5 @@
 \.idea/
 
 downup/__pycache__/
+
+db\.sqlite3
