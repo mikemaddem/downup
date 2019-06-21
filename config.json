@@ -1,11 +1,11 @@
 {
   "http.get": {
     "website1": {
-      "url": "enter url here",
+      "url": "http://www.google.com",
       "priority": 10
     },
     "website2": {
-      "url": "url 2",
+      "url": "http://www.mikemadden.me",
       "priority": 10
     }
   },
@@ -15,7 +15,7 @@
       "priority": 10
     },
     "server2": {
-      "ip": "192.168.1.1",
+      "ip": "192.168.1.38",
       "priority": 10
     }
   }
